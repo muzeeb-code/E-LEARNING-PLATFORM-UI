@@ -82,7 +82,7 @@ project-folder/ ├── index.html ├── courses.html ├── course.htm
 
 ## 🌐 Live Demo
 
-👉 **[Click here to explore](https://your-username.github.io/ELEARNING-PLATFORM/)
+👉 **[Click here to explore the live project](https://muzeeb-code.github.io/E-LEARNING-PLATFORM-UI/)**
 
 ---
 
