@@ -65,7 +65,7 @@ Fully responsive and optimized for:
 
 ## 📂 Project Structure
 
-project-folder/ ├── index.html ├── courses.html ├── course.html ├── profile.html ├── css/ │   └── styles.css └── js/ └── script.js
+project-folder/ ├── index.html ├── courses.html ├── course.html ├── profile.html ├── css/ │   └── styles.css 
 
 
 ---
